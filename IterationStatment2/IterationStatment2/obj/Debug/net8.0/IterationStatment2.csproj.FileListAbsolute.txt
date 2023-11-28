@@ -1,0 +1,15 @@
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\bin\Debug\net8.0\IterationStatment2.exe
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\bin\Debug\net8.0\IterationStatment2.deps.json
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\bin\Debug\net8.0\IterationStatment2.runtimeconfig.json
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\bin\Debug\net8.0\IterationStatment2.dll
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\bin\Debug\net8.0\IterationStatment2.pdb
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\obj\Debug\net8.0\IterationStatment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\obj\Debug\net8.0\IterationStatment2.AssemblyInfoInputs.cache
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\obj\Debug\net8.0\IterationStatment2.AssemblyInfo.cs
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\obj\Debug\net8.0\IterationStatment2.csproj.CoreCompileInputs.cache
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\obj\Debug\net8.0\IterationStatment2.sourcelink.json
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\obj\Debug\net8.0\IterationStatment2.dll
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\obj\Debug\net8.0\refint\IterationStatment2.dll
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\obj\Debug\net8.0\IterationStatment2.pdb
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\obj\Debug\net8.0\IterationStatment2.genruntimeconfig.cache
+C:\Users\Jon\repos\IterationStatements\IterationStatment2\IterationStatment2\obj\Debug\net8.0\ref\IterationStatment2.dll
