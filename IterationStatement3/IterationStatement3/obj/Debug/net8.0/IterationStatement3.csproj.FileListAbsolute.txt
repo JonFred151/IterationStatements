@@ -1,0 +1,15 @@
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\bin\Debug\net8.0\IterationStatement3.exe
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\bin\Debug\net8.0\IterationStatement3.deps.json
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\bin\Debug\net8.0\IterationStatement3.runtimeconfig.json
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\bin\Debug\net8.0\IterationStatement3.dll
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\bin\Debug\net8.0\IterationStatement3.pdb
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\obj\Debug\net8.0\IterationStatement3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\obj\Debug\net8.0\IterationStatement3.AssemblyInfoInputs.cache
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\obj\Debug\net8.0\IterationStatement3.AssemblyInfo.cs
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\obj\Debug\net8.0\IterationStatement3.csproj.CoreCompileInputs.cache
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\obj\Debug\net8.0\IterationStatement3.sourcelink.json
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\obj\Debug\net8.0\IterationStatement3.dll
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\obj\Debug\net8.0\refint\IterationStatement3.dll
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\obj\Debug\net8.0\IterationStatement3.pdb
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\obj\Debug\net8.0\IterationStatement3.genruntimeconfig.cache
+C:\Users\Jon\repos\IterationStatements\IterationStatement3\IterationStatement3\obj\Debug\net8.0\ref\IterationStatement3.dll
