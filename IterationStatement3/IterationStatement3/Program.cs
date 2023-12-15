@@ -21,6 +21,7 @@
                             // Does a loop until a number is enter in that is between 10 and -10 
                             do
                             {
+                                Console.Clear();
                                 Console.WriteLine("Give a number between -10 and 10.");
                                 if (int.TryParse(Console.ReadLine(), out Num1))
                                 {
@@ -42,9 +43,12 @@
                             // Calling the method MultiTable to multiple the giving number and to check if the numbers is positive or megivite 
                             MultiTable(Num1);
                             CheckIntegar(Num1);
+                            Console.ReadKey();
+                            Console.Clear();
                             break;
                        // case 1 is printing the numbers between 1000 and -1000 
                         case 1:
+                            Console.Clear ();   
                             Console.WriteLine("Printing numbers....Please wait....");
                             for (int i = -1000; i <= 1000; i++)
                             {
@@ -56,10 +60,12 @@
 
 
 
-
+                            Console.ReadKey ();
+                            Console.Clear();    
                             break;
                        //case 2 is multiple of 3 to 999
                         case 2:
+                            Console.Clear ();
                             int k = 1;
                             Console.WriteLine("\nMultiple of 3");
                             for (int i = 3; i<= 999; i+= 3)
@@ -68,9 +74,12 @@
                                 Console.WriteLine($"{i} Is the Multiple of {k} ");
                                 k++;
                             }
+                            Console.ReadKey ();
+                            Console.Clear();
                         break;
                         // case 3 is the two number are equal to each other are they positive or negative, and if they are even or odd
                         case 3:
+                            Console.Clear ();
                             Console.WriteLine("Enter a number");
                             if(int.TryParse(Console.ReadLine(), out Num1))
                             {
@@ -98,9 +107,12 @@
                             {
                                 Console.WriteLine("INVALID INPUT FOR THE FIRST NUMBER");
                             }
+                            Console.ReadKey();
+                            Console.Clear();
                         break;
                         // case 4 is are you old enough to vote
                         case 4:
+                            Console.Clear ();
                             Console.WriteLine("Enter your Age");
                             if (int.TryParse(Console.ReadLine(), out Num1))
                             {
@@ -117,14 +129,19 @@
                             {
                                 Console.WriteLine("INVALID INPUT!!");
                             }
+                            Console.ReadKey();
+                            Console.Clear();
                          break;
                         //case 5 exit the program and end the do while loop
                         case 5:
+                            Console.Clear ();
                             Console.WriteLine("Exiting the Program. Please wait......");
                             break;
                         // keep the switch for having an invalid input 
                         default:
                             Console.WriteLine("Invalid Choice. Please select the given option!");
+                            Console.ReadKey();
+                            Console.Clear();   
                             break;
                     }
 
@@ -132,7 +149,7 @@
 
 
                 }
-                else { Console.WriteLine("Invalid input try again! "); }
+                else { Console.WriteLine("Invalid input try again! "); Console.ReadKey(); Console.Clear(); }
 
             } while (Choice != 5);
             
